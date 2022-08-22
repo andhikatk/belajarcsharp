@@ -4,7 +4,7 @@ public class Helloword
 {
         public static void Main(string[]args)
         {
-         string jenengku = "Andhika Tri CahyoKumara";
+         string jenengku = "Fahri Tri CahyoKumara";
          string tinggaldi = "Rumah orang tua";
          int RT = 19 ;
          int RW =06;
